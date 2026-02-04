@@ -1,5 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+I'm+Fishy;Web3+Security+Researcher;Smart+Contract+Audits+%26+Writeups;Everything's+fishy+until+proven+safe+🐟)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?
+font=Architects+Daughter
+&color=ffffff
+&size=30
+&pause=2500
+&speed=40
+&width=900
+&lines=Hey!+I'm+Fishy;
+Web3+Security+Researcher;
+Smart+Contract+Audits+and+Writeups;
+Everything's+fishy+until+proven+safe+🐟
+)](https://git.io/typing-svg)
 ## 🛡️ Web3 Security Researcher
 
 I'm a **smart contract security researcher** focused on reviewing and breaking real-world Web3 protocols.
